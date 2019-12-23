@@ -1,6 +1,6 @@
 To use this projct you have to lern :
 
-C#
-Windows Form
-SQL
-GUI
+C# \n
+Windows Form \n
+SQL \n
+GUI \n
